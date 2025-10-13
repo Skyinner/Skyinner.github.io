@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "photo-cv.png"
   name             : "师鹏杰"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"# example: "she/her"  
   bio              : "智能化技术研发师"
   location         : "海淀,北京"
   employer         : "中车科技创新（北京）有限公司"
   uri              : # URL
-  email            : mrshipengjie@163.com
+  email            : "mrshipengjie@163.com"
 
   # Academic websites
   academia         : # URL
