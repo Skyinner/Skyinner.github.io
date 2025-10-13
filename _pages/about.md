@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "师鹏杰"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 师鹏杰
+
 ======
 我目前是中车科技创新（北京）有限公司的一名工程师。我在清华大学获得了固体力学博士学位，并有幸得到[徐志平教授](https://scholar.google.com/citations?user=VNcqui8AAAAJ&hl=en)的指导。在此之前，我获得了南京航空航天大学工程力学学士学位。
 
