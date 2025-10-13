@@ -24,7 +24,7 @@ repository               : "Skyinner/Skyinner.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "师鹏杰,Ph.D."
+  name             : "师鹏杰, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "智能化技术研发师"
   location         : "海淀,北京"
@@ -81,12 +81,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+#  books:
+#    title: 'Books'
+#  manuscripts:
+#    title: 'Journal Articles'    
+#  conferences:
+#    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
