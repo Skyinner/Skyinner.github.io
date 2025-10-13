@@ -6,15 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ------
-
 我目前是中车科技创新（北京）有限公司的一名工程师。我在清华大学获得了固体力学博士学位，并有幸得到[徐志平教授](https://scholar.google.com/citations?user=VNcqui8AAAAJ&hl=en)的指导。在此之前，我获得了南京航空航天大学工程力学学士学位。
 
+我目前主要负责结构健康监测（SHM）相关技术研究，具体为：
+- 利用有限元进行结构中的压电导波仿真以及低速冲击损伤仿真（COMSOL，ABAQUS）;
+- SHM中的的冲击监测与损伤识别等算法研发 （Python）;
+- 传感器布设以及数据分析（Python）;
+
 我的博士阶段主要研究方向主要分为三个方向：
-- 利用有限元、分子动力学模拟、密度泛函模拟以及理论等手段研究二维材料的力学与断裂行为；
+- 利用有限元、分子动力学、密度泛函以及理论等手段研究二维材料的力学与断裂行为；
 - 借助机器学习（深度学习）研究材料的断裂、无序和非平衡态性质；
 - 3D 打印透明玻璃及其应用。
+
+
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
