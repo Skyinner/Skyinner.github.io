@@ -1,24 +1,18 @@
 ---
 layout: archive
-title: "Publications"
+title: "学术论文"
 permalink: /publications/
 author_profile: true
 ---
 
-[9] **W He**, L Zhai, C Yam\*, Z Xu\*, [Current Transients in Graphene Electronics under Single-Particle Irradiation](https://onlinelibrary.wiley.com/doi/full/10.1002/smsc.202300011). _Small Science_, 3(7), 2300011 (2024).
+[1] **Shi P**, Xu Z\*. [Edge perfection of two-dimensional materials]{https://link.springer.com/article/10.1557/s43577-024-00855-x}. _MRS Bulletin_, 2025, 50(5): 549-556. (IF: 5.1) 
 
-[8] Q Zhang<sup>†</sup>, **W He**<sup>†</sup>, Z Xu, L Li, D Geng\*, W Hu\*, [Oxygen-assisted anisotropic chemical etching of MoSe$$_2$$ for enhanced phototransistors](https://pubs.acs.org/doi/10.1021/acs.chemmater.2c00694). _Chemistry of Materials_, 34(9), 4212–4223 (2022).
+Feng S, Zheng X, \textbf{Shi P}, et al. Cooperative cracks in layered crystals[J]. \href{https://www.sciencedirect.com/science/article/abs/pii/S0022509625002182}{Journal of the Mechanics and Physics of Solids}, 2025: 106242. (IF: 6.0)
 
-[7] H Liu<sup>†</sup>, **W He**<sup>†</sup>, Z Liu, I Abidi, Y Ding, P Galligan, M Tamtaji, J Li, Y Cai, T Kang, H Wong, Z Li, P Zhao, Z Gao, Y Mi, Z Xu\*, Z Luo\*, [Structure evolution of hBN grown on molten Cu by regulating precursor flux during chemical vapor deposition](https://iopscience.iop.org/article/10.1088/2053-1583/ac2e59/meta). _2D Materials_, 9, 015004 (2022).
+\textbf{Shi P}, Xu Z. Strength of 2D glasses explored by machine-learning force fields[J]. \href{https://pubs.aip.org/aip/jap/article/136/6/064304/3307502}{Journal of Applied Physics}, 2024, 136(6). (IF: 2.7)
 
-[6] M Huang, **W He**, Z Xu, H Zhu*, [Enhanced Catalytic Mechanism of Twin-Structured BiVO4](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c03018). _The Journal of Physical Chemistry Letters_, 12, 10610–10615 (2021).
+\textbf{Shi P}, Xu Z. Exploring fracture of H-BN and graphene by neural network force fields[J]. \href{https://iopscience.iop.org/article/10.1088/1361-648X/ad5c31/meta}{Journal of Physics: Condensed Matter}, 2024, 36(41): 415401. (IF: 2.6)
 
-[5] **W He**, C Chen, Z Xu*, [Electronic excitation in graphene under single-particle irradiation](https://iopscience.iop.org/article/10.1088/1361-6528/abdb64/meta). _Nanotechnology_, 32(16), 165702 (2021). 
+\textbf{Shi P}, Feng S, Xu Z. Non-equilibrium nature of fracture determines the crack paths[J]. \href{https://www.sciencedirect.com/science/article/abs/pii/S2352431624000312}{Extreme Mechanics Letters}, 2024, 68: 102151. (IF: 4.5)
 
-[4] L Cai, **W He**, X Xue, J Huang, K Zhou, X Zhou, Z Xu\*, G Yu\*, [In situ growth of large-area and self-aligned graphene nanoribbon arrays on liquid metal](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa298/6039344?login=true). _National Science Review_, nwaa298 (2020).
-
-[3] J Yang, **W He**, Q Jiang, Z Chen, H Ju, X Xue, Z Xu\*, P Hu\*, G Yu\*, [Hydrogen-dominated metal-free growth of graphitic-nitrogen doped graphene with n-type transport behaviors](https://www.sciencedirect.com/science/article/pii/S0008622320300580). _Carbon_, 161, 123-131 (2020).
-
-[2] **W He**, C Chen, Z Xu*, [Molecular dynamics simulations of silicon carbide nanowires under single-ion irradiation](https://aip.scitation.org/doi/full/10.1063/1.5121873). _Journal of Applied Physics_, 126(12), 125902 (2019). 
-
-[1] **W He**, D Geng, Z Xu*, [Pattern evolution characterizes the mechanism and efficiency of CVD graphene growth](https://www.sciencedirect.com/science/article/pii/S0008622318308625). _Carbon_, 141, 316-322 (2019).
+\textbf{Shi P}, Yan G.Damage Detection Using the Extended Finite Element Method and An Enhanced Dolphin Echolocation Optim[J].\href{https://tyutjournal.tyut.edu.cn/englishpaper/show-584.html}{Taiyuan University of technology},2018,49(04):599-605
