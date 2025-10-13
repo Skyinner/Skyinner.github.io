@@ -4,7 +4,7 @@ title: "学术论文"
 permalink: /publications/
 author_profile: true
 ---
-
+----
 [1] **Shi P**, Xu Z\*. [Edge perfection of two-dimensional materials]{https://link.springer.com/article/10.1557/s43577-024-00855-x}. _MRS Bulletin_, 2025, 50(5): 549-556. (IF: 5.1) 
 
 Feng S, Zheng X, \textbf{Shi P}, et al. Cooperative cracks in layered crystals[J]. \href{https://www.sciencedirect.com/science/article/abs/pii/S0022509625002182}{Journal of the Mechanics and Physics of Solids}, 2025: 106242. (IF: 6.0)
