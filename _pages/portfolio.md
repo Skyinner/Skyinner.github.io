@@ -5,6 +5,5 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<div align=center>
-<img src="/_project_picture/幻灯片1.PNG" width="45%">
-</div>
+​
+![图1](/_project_picture/幻灯片1.PNG)
