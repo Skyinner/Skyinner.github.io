@@ -1,6 +1,6 @@
 ---
 title: "1. 结构健康监测相关技术"
-excerpt: "(1) 结构损伤识别相关技术研发 1<br/><img src='/images/fig1.png'>"
+excerpt: "(1) 结构损伤识别相关技术研发 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
