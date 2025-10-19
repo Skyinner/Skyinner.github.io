@@ -1,6 +1,6 @@
-<img width="499" height="81" alt="image" src="https://github.com/user-attachments/assets/fff476b6-129b-47a6-9c39-434e2d518a2f" />---
+---
 title: "1. 结构健康监测相关技术"
-excerpt: "(1) 结构损伤识别相关技术研发 1<br/><img src='/images/500x300.png'>"
+excerpt: "(1) 结构损伤识别相关技术研发 1<br/><img src='/images/fig1.png'>"
 collection: portfolio
 ---
 
