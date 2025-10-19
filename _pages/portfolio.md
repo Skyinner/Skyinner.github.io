@@ -6,4 +6,5 @@ author_profile: true
 ---
 
 ​{% include base_path %}
-<img src="/_project_picture/Fig_01.png" alt="图片1">
+​
+<img src="/_project_picture/Fig_01.png" width="100%">
