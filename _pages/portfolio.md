@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ​
-![图1](/_project_picture/Fig_01.png)
+![](/_project_picture/Fig_01.png)
