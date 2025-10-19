@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ​{% include base_path %}
-![](/_project_picture/Fig_01.png)
+<img src="/_project_picture/Fig_01.png" alt="图片1">
